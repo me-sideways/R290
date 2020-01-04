@@ -3,6 +3,17 @@ from CoolProp.CoolProp import PropsSI
 from CoolProp.Plots import StateContainer
 import matplotlib.pyplot as plt
 
+'''
+Compare two systems of the same capacity, and show the comparible COP
+
+Created by Jason Beattie | jason.beattie@protonmail.com
+3/1/20
+
+Bugs:
+
+System 2 has to be a more effiecant refrigerant
+
+'''
 
 
 
