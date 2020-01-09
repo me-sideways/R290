@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 Jason Beattie | jason.beattie@protonmail.com 8/01/2020
 
-Use this is calculate the highest temp that the cooling cooling can be to get the room to a confortable Temp/RH
+Use this is calculate the highest temp that the cooling coil can be to get the room to a confortable Temp/RH
 
 R32 GWP : 675
 R290 GWP: 3
